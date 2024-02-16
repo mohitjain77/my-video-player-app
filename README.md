@@ -22,11 +22,12 @@ This project is a simple video player application built using React.js and Redux
     * ThumbnailView: Displays individual video thumbnails.
     * PlayListView: Handles the playlist view and routing.
 
-2. src/utils: Contains utility functions and Redux slices.
+2. src/utils: Contains Redux store and slices.
     * appStore.js: Configures the Redux store.
     * playlistSlice.js: Defines Redux slice for playlist state management.
     * videoSlice.js: Defines Redux slice for video state management.
-    * src/assets: Contains static assets such as images and JSON data.
+
+3. src/assets: Contains static assets such as images and JSON data.
     * logo.jpg: Logo image for the application.
     * videoMetaJson.js: JSON data containing video metadata.
 

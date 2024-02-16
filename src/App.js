@@ -1,4 +1,3 @@
-import "./App.css";
 import { Provider } from "react-redux";
 import appStore from "./utils/appStore";
 import Header from "./components/Header";
