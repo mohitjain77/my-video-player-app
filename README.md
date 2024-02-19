@@ -31,7 +31,10 @@ This project is a simple video player application built using React.js and Redux
     * logo.jpg: Logo image for the application.
     * videoMetaJson.js: JSON data containing video metadata.
 
-### Setup Instructions:
+### Hosted on:
+[https://video-player-app-f7b16.web.app/](https://video-player-app-f7b16.web.app/)
+
+### Local Access Instructions:
 
 1. Clone the repository from GitHub.
 2. Navigate to the project directory.
